@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="DynamicPackets.cpp" />
+    <ClCompile Include="DynamicPackets.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="packet.h" />

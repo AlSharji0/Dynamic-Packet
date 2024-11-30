@@ -1,0 +1,15 @@
+﻿  DynamicPackets.c
+D:\DynamicPackets\DynamicPackets.c(49,25): warning C4244: '=': conversion from 'u_short' to 'uint8_t', possible loss of data
+D:\DynamicPackets\DynamicPackets.c(53,25): warning C4244: '=': conversion from 'u_short' to 'uint8_t', possible loss of data
+D:\DynamicPackets\DynamicPackets.c(57,25): warning C4244: '=': conversion from 'u_short' to 'uint8_t', possible loss of data
+D:\DynamicPackets\DynamicPackets.c(61,25): warning C4244: '=': conversion from 'u_short' to 'uint8_t', possible loss of data
+D:\DynamicPackets\DynamicPackets.c(65,25): warning C4244: '=': conversion from 'u_short' to 'uint8_t', possible loss of data
+D:\DynamicPackets\DynamicPackets.c(69,25): warning C4244: '=': conversion from 'u_short' to 'uint8_t', possible loss of data
+D:\DynamicPackets\DynamicPackets.c(169,72): warning C4133: 'function': incompatible types - from 'SOCKADDR_IN *' to 'const sockaddr *'
+D:\DynamicPackets\DynamicPackets.c(154,16): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+D:\DynamicPackets\DynamicPackets.c(161,11): warning C4047: 'initializing': 'PCSTR' differs in levels of indirection from 'int'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DynamicPackets.vcxproj -> D:\DynamicPackets\x64\Release\DynamicPackets.exe

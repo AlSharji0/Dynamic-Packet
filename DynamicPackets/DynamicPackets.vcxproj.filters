@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DynamicPackets.cpp">
+    <ClCompile Include="DynamicPackets.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
